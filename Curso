@@ -1,0 +1,11 @@
+package br.thiagomouro.academico;
+
+
+
+
+public class Curso{
+}
+
+
+public Curso() {
+    }
